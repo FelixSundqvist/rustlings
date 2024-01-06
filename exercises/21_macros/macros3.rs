@@ -7,6 +7,7 @@
 
 // I AM NOT DONE
 
+![macro_export]
 mod macros {
     macro_rules! my_macro {
         () => {
